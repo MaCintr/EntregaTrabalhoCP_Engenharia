@@ -1,2 +1,2 @@
-# EntregaTrabaloCP_Engenharia
+# EntregaTrabalhoCP_Engenharia
 Entrega do checkpoint 2 da matéria Engenharia de Software
